@@ -30,7 +30,7 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=JainamBheda&theme=light)](https://git.io/streak-stats)
 
 
 ## 🔗 Connect with me
