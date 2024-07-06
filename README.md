@@ -39,5 +39,6 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 | :------| :------|
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img src="github-snake.svg" alt="snake gif" />
 </p>
+
