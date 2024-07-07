@@ -28,6 +28,13 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)|![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)|||
 |---|---|---|---|---|
 
+### IDEs and Tools 🛠:
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&hide_border=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com/?user=JainamBheda&theme=tokyonight)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainamBheda&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
@@ -37,6 +44,7 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainam-bheda-97a8a725b/) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Jainam03121857)
 | :------| :------|
+
 
 <p align="center">
   <img src="github-snake.svg" alt="snake gif" />
