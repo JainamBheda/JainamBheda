@@ -35,12 +35,12 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/JainamBheda?theme=dracula&font=rubik&ext=heatmap)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&hide_border=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com/?user=JainamBheda&theme=tokyonight)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainamBheda&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
-
-## Leetcode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/<JainamBheda>?theme=dark&font=baloo&ext=heatmap)
 
 
 
