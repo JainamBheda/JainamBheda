@@ -39,6 +39,10 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&hide_border=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com/?user=JainamBheda&theme=tokyonight)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainamBheda&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/<JainamBheda>?theme=dark&font=baloo&ext=heatmap)
+
+
 
 ## 🔗 Connect with me
 
