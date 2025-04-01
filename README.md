@@ -19,7 +19,7 @@ I'm a passionate web developer with a knack for creating dynamic and responsive 
 
 ### Backend 
 
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) || ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket-dot-io&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket-dot-io&logoColor=white) |
 |---|---|---|---|---|
 
 
