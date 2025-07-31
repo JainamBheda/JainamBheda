@@ -16,6 +16,11 @@
 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 |---|---|---|---|
 
+### Backend Technologies
+
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+|---|---|
+
 ### Core CS Knowledge
 
 | ![Operating Systems](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-blue) | ![DBMS](https://img.shields.io/badge/DBMS-SQL%20%7C%20NoSQL-green) | ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-Theory%20%26%20Practical-blueviolet) | ![DSA](https://img.shields.io/badge/DSA-C++%20%7C%20Java-ff69b4) |
