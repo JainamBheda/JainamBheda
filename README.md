@@ -1,76 +1,261 @@
 # Hi there, I'm Jainam Bheda 👋
 
-🌐 **Portfolio:** [jainambheda1.vercel.app](https://jainambheda1.vercel.app/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;FinTech+Enthusiast;DSA+%7C+System+Design+Learner;Always+Learning+New+Technologies" />
+</p>
 
-![GitHub stars](https://img.shields.io/github/stars/JainamBheda?style=social)
-
-🎓 Final Year B.Tech in EXTC at DJSCE  
-💻 Practicing DSA in C++/Java | Love Core Java  
-📚 Good knowledge of CN, DBMS, and OS  
-🔍 Always curious to explore new technologies  
-
----
-
-## 🚀 Technologies & Tools
-
-### Programming Languages
-
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-|---|---|---|---|
-
-### Backend Technologies
-
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
-|---|---|
-
-### Core CS Knowledge
-
-| ![Operating Systems](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-blue) | ![DBMS](https://img.shields.io/badge/DBMS-SQL%20%7C%20NoSQL-green) | ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-Theory%20%26%20Practical-blueviolet) | ![DSA](https://img.shields.io/badge/DSA-C++%20%7C%20Java-ff69b4) |
-|---|---|---|---|
-
-### Tools & IDEs 🛠
-
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/JainamBheda?style=social"/>
+  <img src="https://img.shields.io/github/stars/JainamBheda?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=JainamBheda&color=blue"/>
+</p>
 
 ---
 
-## 📊 LeetCode Stats
+# 👨‍💻 About Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JainamBheda?theme=dracula&font=rubik&ext=heatmap)
+🎓 B.Tech in Electronics & Telecommunication Engineering (DJSCE)
 
----
-## I'm passionate about Core Java and familiar with the following concept
+💼 Software Engineer at a **FinTech Company**
 
-| ![OOP](https://img.shields.io/badge/OOP-Inheritance%20%7C%20Polymorphism%20%7C%20Encapsulation%20%7C%20Abstraction-blueviolet) | ![Exception Handling](https://img.shields.io/badge/Exception%20Handling-Try%20%7C%20Catch%20%7C%20Finally-important)      |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| ![Collections](https://img.shields.io/badge/Collections-List%20%7C%20Set%20%7C%20Map-green)                                    | ![Multithreading](https://img.shields.io/badge/Multithreading-Thread%20%7C%20Runnable%20%7C%20Sync-yellowgreen)           |
-| ![File I/O](https://img.shields.io/badge/File_IO-Streams%20%7C%20Readers%20%7C%20Writers-lightgrey)                            | ![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-blue)                                                   |
-| ![Memory](https://img.shields.io/badge/Memory_Management-GC%20%7C%20Heap%20%7C%20Stack-critical)                               | ![JVM](https://img.shields.io/badge/JVM-JDK%20%7C%20JRE%20%7C%20Architecture-9cf)                                         |
-| ![Interfaces](https://img.shields.io/badge/Interfaces%20%26%20Abstract%20Classes-OOP%20Design-lightblue)                       | ![Lambda](https://img.shields.io/badge/Lambda%20%26%20Streams-Java%208%20Features-blueviolet)                             |
-| ![Generics](https://img.shields.io/badge/Generics-Type%20Safety%20%7C%20Reusable-orange)                                       | ![Access Modifiers](https://img.shields.io/badge/Access_Modifiers-public%20%7C%20private%20%7C%20protected-informational) |
+🌱 Currently building **Enterprise Applications using Spring Boot & Angular**
 
-⚙️ Always building and exploring Java-based solutions and applications.
----
+💻 Strong interest in
 
-## 📈 GitHub Stats
+- Backend Development
+- Spring Boot Ecosystem
+- REST APIs
+- Spring Security & JWT
+- System Design
+- Microservices
+- Database Design
+- Java Performance
+- DSA in Java
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&hide_border=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JainamBheda&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JainamBheda&layout=compact&hide_border=true&langs_count=10&theme=tokyonight)
+📚 Passionate about learning how scalable software is built.
 
 ---
 
-## 🔗 Connect with me
+# 🚀 Tech Stack
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainam-bheda-97a8a725b/) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Jainam03121857) |
-| :------| :------|
+## Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+</p>
+
+---
+
+---
+
+# 🤖 AI Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI_ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCode-4B8BBE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cline-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
+
+</p>
+
+💡 **Experienced in AI-assisted software development using modern coding agents for:**
+- Code generation
+- Debugging & refactoring
+- Spring Boot & Angular development
+- API design
+- Documentation
+- Code reviews
+- Test generation
+- Productivity automation
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Tools & IDEs
+
+<p>
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira"/>
+
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+</p>
+
+---
+
+# 📚 Computer Science
+
+<p>
+
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-important?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating_Systems-9cf?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Networks-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multithreading-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JVM_Internals-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Garbage_Collection-critical?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID_Principles-008080?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏦 Domain Knowledge
+
+<p>
+
+<img src="https://img.shields.io/badge/FinTech-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Loan_Origination_System-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Authentication_&_Authorization-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CRUD_APIs-ff69b4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database_Integration-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JainamBheda?theme=dark&font=Nunito&ext=heatmap)
+
+---
+
+# 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=JainamBheda&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JainamBheda&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JainamBheda&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🤝 Connect with Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/jainam-bheda-97a8a725b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/Jainam03121857">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="github-snake.svg" alt="snake gif" />
+<img src="https://github-profile-trophy.vercel.app/?username=JainamBheda&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+<img src="github-snake.svg" alt="Snake animation"/>
 </p>
